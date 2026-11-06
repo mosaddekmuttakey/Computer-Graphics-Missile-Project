@@ -1,0 +1,45 @@
+# Compiled binaries and build output
+bin/
+obj/
+Debug/
+Release/
+build/
+dist/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+*.so
+*.dylib
+*.app/
+
+# Code::Blocks generated files
+*.depend
+*.layout
+*.workspace
+*.cbTemp
+*.cbp.bak
+
+# Visual Studio / IDE files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files, logs, and editor swap files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
